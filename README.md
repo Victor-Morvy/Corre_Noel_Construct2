@@ -1,7 +1,5 @@
 # Corre Noel!
-Noel, Corre! (Santa, Run! in English), its for the mpgames.online Game Jam 2019, "Natal" (Christmass) theme.
-
-Este jogo foi o ganhador da Game Jam de Dezembro de 2019 da mpgames.online com o tema Natal
+Noel, Corre! (Santa, Run! in English), é um jogo vencedor da primeira GameJam mpgames.online 2019, tema "Natal".
 
 link para jogar online: https://nostalgic-nightingale-3c1c3e.netlify.com/
 
